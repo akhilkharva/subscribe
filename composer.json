@@ -1,8 +1,8 @@
 {
-    "name": "fhsinchy/inspire",
+    "name": "akhilkharva/subscribe",
     "autoload": {
         "psr-4": {
-            "Fhsinchy\\Inspire\\": "src/"
+            "akhilkharva\\subscribe\\": "src/"
         }
     },
     "authors": [
@@ -12,6 +12,6 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^7.0.1"
+        
     }
 }
