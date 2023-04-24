@@ -1,0 +1,16 @@
+{
+    "name": "akhilkharva/subscribe",
+    "autoload": {
+        "psr-4": {
+            "akhilkharva\\subscribe\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Akhil Kharva",
+            "email": "akhilkharva@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}
